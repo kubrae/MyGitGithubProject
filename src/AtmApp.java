@@ -13,5 +13,6 @@ public class AtmApp {
         //kbr1
         System.out.println("");
         //nsb3
-    }
-}
+        if (true){}
+
+    }}
