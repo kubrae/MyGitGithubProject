@@ -9,5 +9,7 @@ public class AtmApp {
         //version3
         System.out.println("Java yi ogrenmek cok kolay:");
         //version4
-    }//main
+        System.out.println("kubra branchi kodlarini yazdi.");
+        //kbr1
+    }
 }
