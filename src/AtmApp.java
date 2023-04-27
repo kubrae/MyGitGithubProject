@@ -16,6 +16,6 @@ public class AtmApp {
         if (true){}
 
    
-//remota repoda degisiklik yaptim.
+//remota repoda degisiklik yaptim..
  }
 }
