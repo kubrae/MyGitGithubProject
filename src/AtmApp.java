@@ -15,4 +15,7 @@ public class AtmApp {
         //nsb3
         if (true){}
 
-    }}
+   
+//remota repoda degisiklik yaptim.
+ }
+}
